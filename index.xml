@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>我的 Hugo 博客 on 鸿影雪痕</title>
-    <link>http://localhost:1313/Szygo/szygo.github.io.git/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in 我的 Hugo 博客 on 鸿影雪痕</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <managingEditor>jsdakey@outlook.com (JsDakey)</managingEditor>
     <webMaster>jsdakey@outlook.com (JsDakey)</webMaster>
     <copyright>作者保留所有权利，禁止转载。</copyright>
-    <lastBuildDate>Fri, 09 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/Szygo/szygo.github.io.git/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>我的第一篇 Hugo 博客</title>
-      <link>http://localhost:1313/Szygo/szygo.github.io.git/posts/first-post/</link>
+      <link>http://localhost:1313/posts/first-post/</link>
       <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
       <author>jsdakey@outlook.com (JsDakey)</author>
-      <guid>http://localhost:1313/Szygo/szygo.github.io.git/posts/first-post/</guid>
+      <guid>http://localhost:1313/posts/first-post/</guid>
       <description>记录用 Hugo 搭建博客的全过程，超简单！</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/Szygo/szygo.github.io.git/posts/first-post/featured.jfif" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/first-post/featured.jfif" />
     </item>
     
     <item>
       <title>我的第一篇 Hugo 博客</title>
-      <link>http://localhost:1313/Szygo/szygo.github.io.git/posts/second-post/</link>
+      <link>http://localhost:1313/posts/second-post/</link>
       <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
       <author>jsdakey@outlook.com (JsDakey)</author>
-      <guid>http://localhost:1313/Szygo/szygo.github.io.git/posts/second-post/</guid>
+      <guid>http://localhost:1313/posts/second-post/</guid>
       <description>记录用 Hugo 搭建博客的全过程，超简单！</description>
       
     </item>
     
     <item>
       <title>我的第一篇 Hugo 博客</title>
-      <link>http://localhost:1313/Szygo/szygo.github.io.git/posts/third-post/</link>
+      <link>http://localhost:1313/posts/third-post/</link>
       <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
       <author>jsdakey@outlook.com (JsDakey)</author>
-      <guid>http://localhost:1313/Szygo/szygo.github.io.git/posts/third-post/</guid>
+      <guid>http://localhost:1313/posts/third-post/</guid>
       <description>记录用 Hugo 搭建博客的全过程，超简单！</description>
       
     </item>
     
     <item>
       <title>关于我</title>
-      <link>http://localhost:1313/Szygo/szygo.github.io.git/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>jsdakey@outlook.com (JsDakey)</author>
-      <guid>http://localhost:1313/Szygo/szygo.github.io.git/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>归档</title>
-      <link>http://localhost:1313/Szygo/szygo.github.io.git/archives/</link>
+      <link>http://localhost:1313/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>jsdakey@outlook.com (JsDakey)</author>
-      <guid>http://localhost:1313/Szygo/szygo.github.io.git/archives/</guid>
+      <guid>http://localhost:1313/archives/</guid>
       <description></description>
       
     </item>

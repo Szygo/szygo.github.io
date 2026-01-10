@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 鸿影雪痕</title>
-    <link>http://localhost:1313/Szygo/szygo.github.io.git/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on 鸿影雪痕</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <managingEditor>jsdakey@outlook.com (JsDakey)</managingEditor>
     <webMaster>jsdakey@outlook.com (JsDakey)</webMaster>
     <copyright>作者保留所有权利，禁止转载。</copyright>
-    <lastBuildDate>Fri, 09 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/Szygo/szygo.github.io.git/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>技术</title>
-      <link>http://localhost:1313/Szygo/szygo.github.io.git/categories/%E6%8A%80%E6%9C%AF/</link>
+      <link>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF/</link>
       <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
       <author>jsdakey@outlook.com (JsDakey)</author>
-      <guid>http://localhost:1313/Szygo/szygo.github.io.git/categories/%E6%8A%80%E6%9C%AF/</guid>
+      <guid>http://localhost:1313/categories/%E6%8A%80%E6%9C%AF/</guid>
       <description></description>
       
     </item>
