@@ -12,33 +12,13 @@
     <lastBuildDate>Fri, 09 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://szygo.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>我的第一篇 Hugo 博客</title>
+      <title>TEST_1</title>
       <link>https://szygo.github.io/posts/first-post/</link>
       <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
       <author>jsdakey@outlook.com (JsDakey)</author>
       <guid>https://szygo.github.io/posts/first-post/</guid>
       <description>记录用 Hugo 搭建博客的全过程，超简单！</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://szygo.github.io/posts/first-post/featured-image.jfif" />
-    </item>
-    
-    <item>
-      <title>我的第一篇 Hugo 博客</title>
-      <link>https://szygo.github.io/posts/second-post/</link>
-      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
-      <author>jsdakey@outlook.com (JsDakey)</author>
-      <guid>https://szygo.github.io/posts/second-post/</guid>
-      <description>记录用 Hugo 搭建博客的全过程，超简单！</description>
-      
-    </item>
-    
-    <item>
-      <title>我的第一篇 Hugo 博客</title>
-      <link>https://szygo.github.io/posts/third-post/</link>
-      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
-      <author>jsdakey@outlook.com (JsDakey)</author>
-      <guid>https://szygo.github.io/posts/third-post/</guid>
-      <description>记录用 Hugo 搭建博客的全过程，超简单！</description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://szygo.github.io/posts/first-post/featured.jpg" />
     </item>
     
   </channel>
