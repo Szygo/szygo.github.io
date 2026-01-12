@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on 鸿影雪痕</title>
-    <link>http://localhost:1313/authors/</link>
+    <link>https://szygo.github.io/authors/</link>
     <description>Recent content in Authors on 鸿影雪痕</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <managingEditor>jsdakey@outlook.com (JsDakey)</managingEditor>
     <webMaster>jsdakey@outlook.com (JsDakey)</webMaster>
-    <copyright>作者保留所有权利，禁止转载。</copyright>
-    <atom:link href="http://localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 JsDakey | 作者保留所有权利，禁止转载。</copyright>
+    <atom:link href="https://szygo.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
