@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>文章列表 on 鸿影雪痕</title>
+    <title>我的 Hugo 博客 on 鸿影雪痕</title>
     <link>https://szygo.github.io/posts/</link>
-    <description>Recent content in 文章列表 on 鸿影雪痕</description>
+    <description>Recent content in 我的 Hugo 博客 on 鸿影雪痕</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <managingEditor>jsdakey@outlook.com (JsDakey)</managingEditor>
@@ -22,13 +22,23 @@
     </item>
     
     <item>
-      <title>TEST_1</title>
-      <link>https://szygo.github.io/posts/first-post/</link>
-      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+      <title>关于</title>
+      <link>https://szygo.github.io/posts/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>jsdakey@outlook.com (JsDakey)</author>
-      <guid>https://szygo.github.io/posts/first-post/</guid>
-      <description>记录用 Hugo 搭建博客的全过程，超简单！</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://szygo.github.io/posts/first-post/featured.jpg" />
+      <guid>https://szygo.github.io/posts/about/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://szygo.github.io/posts/about/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>归档</title>
+      <link>https://szygo.github.io/posts/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>jsdakey@outlook.com (JsDakey)</author>
+      <guid>https://szygo.github.io/posts/archives/</guid>
+      <description></description>
+      
     </item>
     
   </channel>
