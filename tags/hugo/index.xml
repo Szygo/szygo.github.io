@@ -12,23 +12,33 @@
     <lastBuildDate>Fri, 09 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://szygo.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>TEST_1</title>
-      <link>https://szygo.github.io/posts/first-post/</link>
+      <title>power</title>
+      <link>https://szygo.github.io/posts/power/basic_topology/</link>
       <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
       <author>jsdakey@outlook.com (JsDakey)</author>
-      <guid>https://szygo.github.io/posts/first-post/</guid>
+      <guid>https://szygo.github.io/posts/power/basic_topology/</guid>
       <description>记录用 Hugo 搭建博客的全过程，超简单！</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://szygo.github.io/posts/first-post/featured-image.jfif" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://szygo.github.io/posts/power/basic_topology/featured-image.jfif" />
+    </item>
+    
+    <item>
+      <title>TEST_1</title>
+      <link>https://szygo.github.io/posts/test/first-post/</link>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+      <author>jsdakey@outlook.com (JsDakey)</author>
+      <guid>https://szygo.github.io/posts/test/first-post/</guid>
+      <description>记录用 Hugo 搭建博客的全过程，超简单！</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://szygo.github.io/posts/test/first-post/featured-image.jfif" />
     </item>
     
     <item>
       <title>TEST_2</title>
-      <link>https://szygo.github.io/posts/second-post/</link>
+      <link>https://szygo.github.io/posts/test/second-post/</link>
       <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
       <author>jsdakey@outlook.com (JsDakey)</author>
-      <guid>https://szygo.github.io/posts/second-post/</guid>
+      <guid>https://szygo.github.io/posts/test/second-post/</guid>
       <description>记录用 Hugo 搭建博客的全过程，超简单！</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://szygo.github.io/posts/second-post/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://szygo.github.io/posts/test/second-post/featured.jpg" />
     </item>
     
   </channel>
