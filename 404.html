@@ -89,8 +89,8 @@
   <link
     type="text/css"
     rel="stylesheet"
-    href="/css/main.bundle.min.a19977e8a28108ef5c8b2f2c5b63d941eab581bcee6120a236dbb75421cf3b31bec2adc6831fa9fdab6817bf7a925613834992477f18fe734bd03d253323f583.css"
-    integrity="sha512-oZl36KKBCO9ciy8sW2PZQeq1gbzuYSCiNtu3VCHPOzG&#43;wq3Ggx&#43;p/atoF796klYTg0mSR38Y/nNL0D0lMyP1gw==">
+    href="/css/main.bundle.min.c055016d78201455e2b2a86c6aff6602f91d8f3587d17b642c6832264484f0f4347fce541a91d7664cd49274c8aef274a820498981a3248fb388c49d141b91a5.css"
+    integrity="sha512-wFUBbXggFFXisqhsav9mAvkdjzWH0XtkLGgyJkSE8PQ0f85UGpHXZkzUknTIrvJ0qCBJiYGjJI&#43;ziMSdFBuRpQ==">
 
   
   
@@ -341,24 +341,6 @@
       
   
     <a
-      href="/tags/"
-      
-      class="flex items-center bf-icon-color-hover"
-      aria-label="标签"
-      title="Tags">
-      
-      
-        <span class="text-base font-medium break-normal">
-          标签
-        </span>
-      
-    </a>
-  
-
-    
-      
-  
-    <a
       href="/about/"
       
       class="flex items-center bf-icon-color-hover"
@@ -514,23 +496,6 @@
         
         <span title="归档" class="text-2xl font-bold tracking-tight">
           归档
-        </span>
-        
-      </a>
-
-      
-    </div>
-  
-    
-    <div class="px-2">
-      <a
-        href="/tags/"
-        aria-label="标签"
-        
-        class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
-        
-        <span title="Tags" class="text-2xl font-bold tracking-tight">
-          标签
         </span>
         
       </a>
@@ -758,62 +723,10 @@
     });
     if (!nav) return;
 
-    const links = Array.from(nav.querySelectorAll(":scope > a"));
-    const search = nav.querySelector(":scope > #search-button");
-    if (search) links.push(search);
-    if (!links.length) return;
-
-    const pill = document.createElement("span");
-    pill.className = "site-nav-pill";
-    pill.setAttribute("aria-hidden", "true");
-    nav.appendChild(pill);
-
-    const findActive = () => links.find(function (link) {
+    const active = Array.from(nav.querySelectorAll(":scope > a")).find(function (link) {
       return link.querySelector(".active");
     });
-
-    let active = findActive() || null;
-    let hovered = null;
-
-    const place = function (item) {
-      if (!item) {
-        pill.classList.remove("is-visible");
-        return;
-      }
-      const navRect = nav.getBoundingClientRect();
-      const itemRect = item.getBoundingClientRect();
-      pill.style.width = itemRect.width + "px";
-      pill.style.height = itemRect.height + "px";
-      pill.style.transform = "translate(" + (itemRect.left - navRect.left) + "px, " + (itemRect.top - navRect.top) + "px)";
-      pill.classList.add("is-visible");
-    };
-
-    links.forEach(function (link) {
-      link.addEventListener("mouseenter", function () {
-        hovered = link;
-        place(link);
-      });
-    });
-
-    nav.addEventListener("mouseleave", function () {
-      hovered = null;
-      place(active);
-    });
-
-    window.addEventListener("resize", function () {
-      place(hovered || active);
-    });
-
-    const bar = document.querySelector(".site-nav-bar");
-    if (bar) {
-      bar.addEventListener("transitionend", function (event) {
-        if (event.propertyName === "width" || event.propertyName === "border-radius") {
-          place(hovered || active);
-        }
-      });
-    }
-
-    place(active);
+    if (active) active.classList.add("nav-active");
   })();
 </script>
 

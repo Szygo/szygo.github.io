@@ -9,7 +9,57 @@
     <managingEditor>jsdakey@outlook.com (JsDakey)</managingEditor>
     <webMaster>jsdakey@outlook.com (JsDakey)</webMaster>
     <copyright>© 2026 JsDakey | 作者保留所有权利，禁止转载。</copyright>
-    <lastBuildDate>Mon, 12 Jan 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://szygo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://szygo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>测试文章：极光与算法</title>
+      <link>https://szygo.github.io/posts/test/sample-01/</link>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <author>jsdakey@outlook.com (JsDakey)</author>
+      <guid>https://szygo.github.io/posts/test/sample-01/</guid>
+      <description>在冰岛追极光时，想到随机算法和光线的共同点。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://szygo.github.io/posts/test/sample-01/featured.svg" />
+    </item>
+    
+    <item>
+      <title>测试文章：线性代数小抄</title>
+      <link>https://szygo.github.io/posts/test/sample-02/</link>
+      <pubDate>Thu, 30 Jul 2026 00:00:00 +0000</pubDate>
+      <author>jsdakey@outlook.com (JsDakey)</author>
+      <guid>https://szygo.github.io/posts/test/sample-02/</guid>
+      <description>整理线性代数中最常用的概念与记号。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://szygo.github.io/posts/test/sample-02/featured.svg" />
+    </item>
+    
+    <item>
+      <title>测试文章：从零搭一个电源</title>
+      <link>https://szygo.github.io/posts/test/sample-03/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <author>jsdakey@outlook.com (JsDakey)</author>
+      <guid>https://szygo.github.io/posts/test/sample-03/</guid>
+      <description>用一个简单项目记录电源设计的基本步骤。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://szygo.github.io/posts/test/sample-03/featured.svg" />
+    </item>
+    
+    <item>
+      <title>测试文章：Python 数据清洗</title>
+      <link>https://szygo.github.io/posts/test/sample-04/</link>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+      <author>jsdakey@outlook.com (JsDakey)</author>
+      <guid>https://szygo.github.io/posts/test/sample-04/</guid>
+      <description>处理脏数据的常用思路和代码片段。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://szygo.github.io/posts/test/sample-04/featured.svg" />
+    </item>
+    
+    <item>
+      <title>测试文章：我的第一篇读书笔记</title>
+      <link>https://szygo.github.io/posts/test/sample-05/</link>
+      <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
+      <author>jsdakey@outlook.com (JsDakey)</author>
+      <guid>https://szygo.github.io/posts/test/sample-05/</guid>
+      <description>试试用结构化的方式记录一本小说。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://szygo.github.io/posts/test/sample-05/featured.svg" />
+    </item>
     
     <item>
       <title>Markdown语法使用记录</title>
@@ -39,6 +89,56 @@
       <guid>https://szygo.github.io/posts/test/first-post/</guid>
       <description>记录用 Hugo 搭建博客的全过程，超简单！</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://szygo.github.io/posts/test/first-post/featured-image.jfif" />
+    </item>
+    
+    <item>
+      <title>测试文章：Hugo 站内搜索笔记</title>
+      <link>https://szygo.github.io/posts/test/sample-06/</link>
+      <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
+      <author>jsdakey@outlook.com (JsDakey)</author>
+      <guid>https://szygo.github.io/posts/test/sample-06/</guid>
+      <description>记录本地搜索页面实现时遇到的几个问题。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://szygo.github.io/posts/test/sample-06/featured.svg" />
+    </item>
+    
+    <item>
+      <title>测试文章：十月旅行记录</title>
+      <link>https://szygo.github.io/posts/test/sample-07/</link>
+      <pubDate>Thu, 02 Oct 2025 00:00:00 +0000</pubDate>
+      <author>jsdakey@outlook.com (JsDakey)</author>
+      <guid>https://szygo.github.io/posts/test/sample-07/</guid>
+      <description>用照片和流水账保存一次短途旅行。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://szygo.github.io/posts/test/sample-07/featured.svg" />
+    </item>
+    
+    <item>
+      <title>测试文章：网站性能优化</title>
+      <link>https://szygo.github.io/posts/test/sample-08/</link>
+      <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
+      <author>jsdakey@outlook.com (JsDakey)</author>
+      <guid>https://szygo.github.io/posts/test/sample-08/</guid>
+      <description>减小字体、图片懒加载与缓存的基本检查清单。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://szygo.github.io/posts/test/sample-08/featured.svg" />
+    </item>
+    
+    <item>
+      <title>测试文章：离散数学随想</title>
+      <link>https://szygo.github.io/posts/test/sample-09/</link>
+      <pubDate>Thu, 08 May 2025 00:00:00 +0000</pubDate>
+      <author>jsdakey@outlook.com (JsDakey)</author>
+      <guid>https://szygo.github.io/posts/test/sample-09/</guid>
+      <description>从集合、关系与图出发的一些随想。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://szygo.github.io/posts/test/sample-09/featured.svg" />
+    </item>
+    
+    <item>
+      <title>测试文章：开源工具收藏</title>
+      <link>https://szygo.github.io/posts/test/sample-10/</link>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 +0000</pubDate>
+      <author>jsdakey@outlook.com (JsDakey)</author>
+      <guid>https://szygo.github.io/posts/test/sample-10/</guid>
+      <description>整理近期发现并正在使用的开源工具。</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://szygo.github.io/posts/test/sample-10/featured.svg" />
     </item>
     
   </channel>
